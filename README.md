@@ -283,4 +283,4 @@ You can:
   - Daniel Caldas from Portugal 🇵🇹 ([danielcaldas](https://github.com/danielcaldas))
   - Alireza Zerafati from Iran 🇮🇷 ([azerafati](https://github.com/azerafati))
   - Hamid from Iran 🇮🇷 ([progHamid](https://github.com/progHamid/)
-  - Mujan from Iran 🇮🇷 ([Mujan](https://github.com/MujanMujan/)
+  - Mujan from Iran 🇮🇷 ([Mujan](https://github.com/MujanMujan/))

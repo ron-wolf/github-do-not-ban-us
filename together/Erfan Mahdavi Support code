@@ -1,3 +1,0 @@
-if($ip->iran){
-return Redirect()->route('Unlimited.Githup')->with('noLimit' , 'Programming goes beyond sanctions');
-}
